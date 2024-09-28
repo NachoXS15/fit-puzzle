@@ -70,8 +70,7 @@ const Board = () => {
   return (
     <div className="game">
       <a href="https://fit-interactive.netlify.app" style={{position: 'absolute', right: '-200px', top: '-40px'}}>
-        <img src="/img/cruz.png" />
-
+        <img src="/img/cruz.png" alt="cruz" />
       </a>
       <div className="board">
         <Overlay size={8} />
