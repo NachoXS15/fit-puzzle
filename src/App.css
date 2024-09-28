@@ -1,0 +1,21 @@
+:root {
+  --size: 200px;
+  --tile: #342956;
+  --correct: #264c62;
+}
+@import url("https://use.typekit.net/ouk4qep.css");
+html,
+body {
+  background-color: beige;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.App * {
+  font-family: "franklin-gothic-atf", sans-serif;
+}

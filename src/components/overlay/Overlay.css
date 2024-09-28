@@ -1,0 +1,5 @@
+.overlay{
+    border: 10px solid #264c62;
+    pointer-events: none;
+    z-index: 20;
+  }
